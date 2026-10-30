@@ -62,7 +62,7 @@ check-marks rather than just the open one.
 
 ## Deploying
 
-Live at <https://gabrielfontineli.github.io/feira-app/>. To publish the current
+Live at <https://fontineli.github.io/feira-app/>. To publish the current
 working tree:
 
 ```bash

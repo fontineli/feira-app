@@ -41,7 +41,7 @@ if (changed.trim()) {
   const sha = execFileSync('git', ['rev-parse', '--short', 'HEAD'], { encoding: 'utf8' }).trim();
   git('-C', WT, 'commit', '-qm', `deploy: build de ${sha}`);
   git('-C', WT, 'push', '-q', 'origin', 'gh-pages');
-  console.log('publicado: https://gabrielfontineli.github.io/feira-app/');
+  console.log('publicado: https://fontineli.github.io/feira-app/');
 } else {
   console.log('nada mudou desde o último deploy.');
 }

@@ -6,7 +6,7 @@ fiscais de compras passadas, que ensina os preços de referência. Offline-first
 sem cadastro, sem servidor: o dado nunca sai do aparelho.
 
 Svelte 5 + TypeScript + Vite, PWA instalável. No ar em
-<https://gabrielfontineli.github.io/feira-app/> (repo privado, site público).
+<https://fontineli.github.io/feira-app/> (repo privado, site público).
 
 ## Acordo de trabalho
 
